@@ -29,7 +29,7 @@ The goal of this repository is to create the most clear and concise collection o
 - [Use of Deprecated Functions](/vulnerabilities/use-of-deprecated-functions.md)
 - [Delegatecall to Untrusted Callee](/vulnerabilities/delegatecall-untrusted-callee.md)
 - [Signature Malleability](/vulnerabilities/signature-malleability.md)
-- [Incorrect Constructor Name](/vulnerabilities/incorrect-constructor.md)
+- ~[Incorrect Constructor Name](/vulnerabilities/incorrect-constructor.md)~ fixed since 0.4.22
 - [Shadowing State Variables](/vulnerabilities/shadowing-state-variables.md)
 - [Weak Sources of Randomness from Chain Attributes](/vulnerabilities/weak-sources-randomness.md)
 - [Missing Protection against Signature Replay Attacks](/vulnerabilities/missing-protection-signature-replay.md)
