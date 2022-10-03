@@ -124,3 +124,7 @@ Special thanks to [RobertMCForster](https://github.com/RobertMCForster) for many
 
 ## NFT projects
 - If cryptopunks are supported (which requires custom code), it should protect against [this frontrun attack vector](https://blog.nftx.io/nftx-v2-punk-incident-post-mortem/).
+
+
+## A lot more findings
+https://secureum.substack.com/p/audit-findings-101
