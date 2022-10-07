@@ -43,7 +43,7 @@ The goal of this repository is to create the most clear and concise collection o
 - [Faulty Contract Detection](/vulnerabilities/faulty-contract-detection.md)
 - [Unclogged Blockchain Reliance](/vulnerabilities/unclogged-blockchain-reliance.md)
 - [Inadherence to Standards](/vulnerabilities/inadherence-to-standards.md)
-- [Unprotected Callback](/vulnerabilities/unprotected-callback.md)
+- [Unprotected NFT mint Callback](/vulnerabilities/unprotected-callback.md)
 - [Asserting EOA from Code Size](/vulnerabilities/asserting-eoa-from-code-size.md)
 
 ## Further Reading
